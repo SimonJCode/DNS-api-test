@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Evi9IaxEIFTCuPl0uBq0HDgkfoGfmkBnKGdS9718Go46635dFPRTLyXb5GQ9jSqa5azQ6iwI39UJ5tPXEM4/9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\46723\\Desktop\\Code\\NetworkLAB\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\46723\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
